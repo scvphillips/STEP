@@ -19,4 +19,4 @@ Please note that polling locations are not consistent across elections. For exam
 
 Please remember to cite this repository and the underlying datasets when using them.
 
-Phillips, Stephen C. 2022. Florida Campus Early Voting Project. https://github.com/scvphillips/Florida-Campus-Voting-Project/. 
+Phillips, Stephen C. 2022. Florida Campus Early Voting Project. https://github.com/scvphillips/FCEVP/. 
