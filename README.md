@@ -1,3 +1,5 @@
+<img src="https://github.com/scvphillips/FCEVP/blob/main/extras/banner.png" width="250" alt="FCEVP Logo">
+
 # Florida Campus Early Voting Project
 This repository contains the data for the Florida Campus Early Voting Project (FCEVP), which collects statistics for early votes cast at on-campus polling places at Florida universities between 2018 and 2022.
 
