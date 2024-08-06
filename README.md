@@ -13,11 +13,11 @@ Following Walker's ruling, Florida supervisors of election were able to provide 
 
 ## Data Collection
 
-This repository contains the data for FCEVP. This data is collected from the Suprevisors of Election in the respective counties in which on-campus early voting polling places have been located at Florida universities. The CSV files provide data for the 2018, 2020, and 2022 November general election. Files contain the distribution of votes cast at each campus location (2018, 2022), as well as a breakdown of votes by the date of early voting (2020).
+This repository contains the data for FCEVP. This data is collected from the Suprevisors of Election in the respective counties in which on-campus early voting polling places have been located at Florida universities. CSV files provide data for the 2018, 2020, and 2022 November general election. Files contain the distribution of votes cast at each campus location (2018, 2022), as well as a breakdown of votes by the date of early voting (2020). Some of the data is presented [here](https://www.stephencphillips.com/research/campus-voting).
 
 Please note that polling locations are not consistent across elections. For example, FSU and FAMU shared a polling site in 2018 but had independent sites in 2020. In addition, the UNF did not have an on-campus polling place in 2020 or 2022. Furthremore, Supreviors of Elections present data differently in each county and across elections. Efforts are ongoing to ensure the completeness of data.
 
-## Data Collection
+## Suggested Citations
 
 Please remember to cite this repository and the underlying datasets when using them.
 
